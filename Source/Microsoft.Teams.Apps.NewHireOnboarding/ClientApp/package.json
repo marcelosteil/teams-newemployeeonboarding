@@ -2,6 +2,10 @@
   "name": "newhireonboarding",
   "version": "1.0.0",
   "private": true,
+  "engines":{
+    "node": "~14",
+    "npm": "~6"
+  },
   "dependencies": {
     "@fluentui/react": "^7.115.4",
     "@fluentui/react-northstar": "^0.51.0",
@@ -60,6 +64,6 @@
     "react-scripts": "^3.4.3",
     "react-test-renderer": "^16.13.1",
     "ts-jest": "^26.4.0",
-    "typescript": "3.9.3"
+    "typescript": "5.1.3"
   }
 }
